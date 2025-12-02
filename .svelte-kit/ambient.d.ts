@@ -134,7 +134,6 @@ declare module '$env/static/private' {
 	export const LC_NUMERIC: string;
 	export const MODULES_CMD: string;
 	export const _: string;
-	export const NODE_ENV: string;
 }
 
 /**
@@ -272,7 +271,6 @@ declare module '$env/dynamic/private' {
 		LC_NUMERIC: string;
 		MODULES_CMD: string;
 		_: string;
-		NODE_ENV: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;
 	}
