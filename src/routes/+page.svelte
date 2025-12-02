@@ -1,2 +1,2 @@
 <h1>Welcome to Nölme</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<p>Una aplicación de aprendizaje para los idiomas de J.R.R. Tolkien</p>
